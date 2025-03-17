@@ -1,0 +1,2 @@
+# Cap 12 - Atividade 02 - Listando Jogos
+ No início da fase, conhecemos o case da Iara Games, que iremos desenvolver ao longo do nosso ano. O propósito da Iara Games é ser uma plataforma inovadora e, para isso, terá que contar com um layout super interativo.  Sendo assim, vamos criar um pequeno piloto da página de listagem dos jogos, contendo imagens, links e, principalmente, um layout interessante. Verifique também a possibilidade de listar conceitos de acessibilidade.  Ao final, vamos armazenar esse desenvolvimento em um repositório do GitHub.
