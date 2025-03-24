@@ -52,8 +52,12 @@ body.dark-theme #moon-icon {
     right: 460px;
 }
 
-
-
+/* Estilo de foco visível para links e botões */
+a:focus, button:focus {
+    outline: 2px solid #1cb80e; /* Borda visível ao redor do elemento */
+    outline-offset: 4px; /* Espaço entre o foco e o elemento */
+    box-shadow: 0 0 5px #1cb80e; /* Efeito de brilho ao redor */
+}
 
 /* Estilo da banner */
 .banner {
